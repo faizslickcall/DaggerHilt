@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id img_avatar
+id progress_Bar
+id rv_user
+id tv_email
+id tv_name
+layout activity_main
+layout rv_user_list
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.DaggerHilt
